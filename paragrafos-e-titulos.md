@@ -7,7 +7,7 @@
 ---
 <br>
 
-# Sobre os Parágrafos em Markdown:
+## Sobre os Parágrafos em Markdown:
 Paragrafo primeiro
 <!-- Indicamos um parágrafo adicionando-se uma llinha em branco entre os parágrafos -->
 Paragrafo segundo
