@@ -310,6 +310,9 @@ Symbols
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
-<br><br><br>
+CRÉDITO deste Conteúdo: [Github XAVIERS](https://gist.github.com/rxaviers/7360908)
+<br><br><br><br>
 
-## [CLIQUE AQUI](../emojis.md) para VOLTAR para o Arquivo sobre Emogis 
+
+---
+## [CLIQUE AQUI](../emojis.md) para VOLTAR para o Arquivo sobre [Emogis](../emojis.md)
